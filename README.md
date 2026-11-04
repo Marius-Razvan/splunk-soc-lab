@@ -13,6 +13,9 @@ Utente: Simon
 Indirizzo IP di origine: 172.201.60.191
 Intervallo: 11 gennaio 2022, dalle ore 07:28:47 alle ore 07:35🈹
 <img width="1506" height="709" alt="raporto" src="https://github.com/user-attachments/assets/3ce37c3e-13cb-4180-932c-2f9933352d8a" />
+### Connessioni riuscite dopo i tentativi falliti
+Ho verificato anche le connessioni riuscite (action=built) per lo stesso utente.
+<img width="1516" height="733" alt="built" src="https://github.com/user-attachments/assets/f630d44a-4f0f-4754-ab6b-387d6073df2e" />
 
 ## Step 3: Creazione degli dashboard
 # Dashboard 1- Monitoraggio attività VPN
