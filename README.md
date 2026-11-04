@@ -16,6 +16,9 @@ Intervallo: 11 gennaio 2022, dalle ore 07:28:47 alle ore 07:35🈹
 ### Connessioni riuscite dopo i tentativi falliti
 Ho verificato anche le connessioni riuscite (action=built) per lo stesso utente.
 <img width="1516" height="733" alt="built" src="https://github.com/user-attachments/assets/f630d44a-4f0f-4754-ab6b-387d6073df2e" />
+#### Conclusioni
+L'analisi ha rilevato 274 tentativi di accesso falliti per l'utente Simon dall'IP 172.201.60.191(CANADA, Alberta in circa 7 minunti).
+Il comportamento e coerente con un attaco brute force. (MITRE ATT&CK:T1110).
 
 ## Step 3: Creazione degli dashboard
 # Dashboard 1- Monitoraggio attività VPN
