@@ -13,3 +13,14 @@ Utente: Simon
 Indirizzo IP di origine: 172.201.60.191
 Intervallo: 11 gennaio 2022, dalle ore 07:28:47 alle ore 07:35🈹
 <img width="1506" height="709" alt="raporto" src="https://github.com/user-attachments/assets/3ce37c3e-13cb-4180-932c-2f9933352d8a" />
+
+## Step 3: Creazione degli dashboard
+# Dashboard 1- Monitoraggio attività VPN
+Ho creato una dashboard utilizzando il 'VPN-logs-1663593355154.json'
+La Dashboard contiene: 
+# Distribuzione degli eventi per azione, paese e tempo.
+
+Queste visualizzazioni permettono di conffontare le attività registrate e individuare picchi di eventi falliti da approfondire.
+
+<img width="1513" height="711" alt="dashboard-vpn" src="https://github.com/user-attachments/assets/9a3a86cd-8117-4f3a-b255-b0587ecdca20" />
+
